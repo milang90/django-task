@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'task',
+    'jwtauth',
     'corsheaders',
     'rest_framework_swagger',
 ]
