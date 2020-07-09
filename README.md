@@ -1,5 +1,7 @@
 # Django Task Manager
 
+![screenshot](screenshot.png?raw=true)
+
 ## Version
 - 1.0.0
 
